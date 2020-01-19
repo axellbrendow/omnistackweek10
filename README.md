@@ -19,4 +19,4 @@ Like a cherry on the cake, the Back-end still works with real time, that is, whe
 <img src="https://i.imgur.com/B29gt0q.jpg" alt="10th Omnistack Week logo" width=700/>
 <img src="https://i.imgur.com/Q1Qm3pa.jpg" alt="Front-end" width=700/>
 <img src="https://i.imgur.com/bLypHH9.png" alt="Back-end" width=700/>
-<img src="https://i.imgur.com/Y2a6bkX.jpg" alt="Mobile" height=600/>
+<img src="https://i.imgur.com/Y2a6bkX.jpg" alt="Mobile" height=500/>
