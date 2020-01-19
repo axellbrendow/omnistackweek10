@@ -16,7 +16,7 @@ The mobile application was responsible for providing a map with all developers w
 
 Like a cherry on the cake, the Back-end still works with real time, that is, when a new user signs up on the platform, the map of other users is updated instantly.
 
-![10th Omnistack Week logo](https://i.imgur.com/B29gt0q.jpg)
-![Front-end](https://i.imgur.com/Q1Qm3pa.jpg)
-![Back-end](https://i.imgur.com/bLypHH9.png)
-![Mobile](https://i.imgur.com/Y2a6bkX.jpg)
+![10th Omnistack Week logo](https://i.imgur.com/B29gt0q.jpg | width=700)
+![Front-end](https://i.imgur.com/Q1Qm3pa.jpg | width=700)
+![Back-end](https://i.imgur.com/bLypHH9.png | width=700)
+![Mobile](https://i.imgur.com/Y2a6bkX.jpg | width=400)
