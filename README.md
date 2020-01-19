@@ -4,7 +4,7 @@ Project produced at the [10th Omnistack Week](https://rocketseat.com.br/week-10/
 
 My LinkedIn post: https://www.linkedin.com/feed/update/urn:li:activity:6624636245584818176/
 
-A week to motivate people to elevate their careers as programmers getting to know Node.JS, React and React Native for Front-end, Back-end and Mobile development.
+This was a week to motivate people to elevate their careers as programmers getting to know Node.JS, React and React Native for Front-end, Back-end and Mobile development.
 
 The idea this time was to develop an application that was a developer radar named DevRadar.
 
