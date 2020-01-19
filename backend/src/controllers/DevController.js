@@ -1,6 +1,7 @@
 const axios = require('axios');
 const Dev = require('../models/Dev');
 const parseStringAsArray = require('../utils/parseStringAsArray');
+const { findConnections, sendMessageToCloseDevs } = require('../websocket');
 
 // Functions of a Controller: index, show, store, update and destroy
 
@@ -39,6 +40,15 @@ module.exports = {
                 techs: techsArray,
                 location
             });
+
+            // Filters connections that are 10km or less from this dev and
+            // that searched for technologies that this dev work
+            const closeDevs = findConnections(
+                { latitude, longitude },
+                techsArray
+            );
+
+            sendMessageToCloseDevs(closeDevs, 'new-dev', dev);
         }
     
         return response.json(dev);
